@@ -1,0 +1,5 @@
+config/
+dev.env
+node_modules/
+public/
+imageFiles/
